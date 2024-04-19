@@ -1,0 +1,99 @@
+C:\Users\user30\source\repos\Kanoisk\obj\Debug\Kanoisk.csproj.AssemblyReference.cache
+C:\Users\user30\source\repos\Kanoisk\obj\Debug\Kanoisk.csproj.SuggestedBindingRedirects.cache
+C:\Users\user30\source\repos\Kanoisk\obj\Debug\Kanoisk.MainForm.resources
+C:\Users\user30\source\repos\Kanoisk\obj\Debug\Kanoisk.Properties.Resources.resources
+C:\Users\user30\source\repos\Kanoisk\obj\Debug\Kanoisk.csproj.GenerateResource.cache
+C:\Users\user30\source\repos\Kanoisk\obj\Debug\Kanoisk.csproj.CoreCompileInputs.cache
+C:\Users\user30\source\repos\Kanoisk\bin\Debug\Kanoisk.exe.config
+C:\Users\user30\source\repos\Kanoisk\bin\Debug\Kanoisk.exe
+C:\Users\user30\source\repos\Kanoisk\bin\Debug\Kanoisk.pdb
+C:\Users\user30\source\repos\Kanoisk\obj\Debug\Kanoisk.exe
+C:\Users\user30\source\repos\Kanoisk\obj\Debug\Kanoisk.pdb
+E:\Работы на C#\Kanoisk\bin\Debug\Kanoisk.exe.config
+E:\Работы на C#\Kanoisk\bin\Debug\Kanoisk.exe
+E:\Работы на C#\Kanoisk\bin\Debug\Kanoisk.pdb
+E:\Работы на C#\Kanoisk\obj\Debug\Kanoisk.csproj.AssemblyReference.cache
+E:\Работы на C#\Kanoisk\obj\Debug\Kanoisk.csproj.SuggestedBindingRedirects.cache
+E:\Работы на C#\Kanoisk\obj\Debug\Kanoisk.MainForm.resources
+E:\Работы на C#\Kanoisk\obj\Debug\Kanoisk.Properties.Resources.resources
+E:\Работы на C#\Kanoisk\obj\Debug\Kanoisk.csproj.GenerateResource.cache
+E:\Работы на C#\Kanoisk\obj\Debug\Kanoisk.csproj.CoreCompileInputs.cache
+E:\Работы на C#\Kanoisk\obj\Debug\Kanoisk.exe
+E:\Работы на C#\Kanoisk\obj\Debug\Kanoisk.pdb
+C:\Users\user452.CHENK\Desktop\Kanoisk\bin\Debug\Kanoisk.exe.config
+C:\Users\user452.CHENK\Desktop\Kanoisk\bin\Debug\Kanoisk.exe
+C:\Users\user452.CHENK\Desktop\Kanoisk\bin\Debug\Kanoisk.pdb
+C:\Users\user452.CHENK\Desktop\Kanoisk\obj\Debug\Kanoisk.csproj.AssemblyReference.cache
+C:\Users\user452.CHENK\Desktop\Kanoisk\obj\Debug\Kanoisk.MainForm.resources
+C:\Users\user452.CHENK\Desktop\Kanoisk\obj\Debug\Kanoisk.Properties.Resources.resources
+C:\Users\user452.CHENK\Desktop\Kanoisk\obj\Debug\Kanoisk.csproj.GenerateResource.cache
+C:\Users\user452.CHENK\Desktop\Kanoisk\obj\Debug\Kanoisk.csproj.CoreCompileInputs.cache
+C:\Users\user452.CHENK\Desktop\Kanoisk\obj\Debug\Kanoisk.exe
+C:\Users\user452.CHENK\Desktop\Kanoisk\obj\Debug\Kanoisk.pdb
+E:\Работы на C#\2 версия Канойска\Kanoisk\bin\Debug\Kanoisk.exe.config
+E:\Работы на C#\2 версия Канойска\Kanoisk\bin\Debug\Kanoisk.exe
+E:\Работы на C#\2 версия Канойска\Kanoisk\bin\Debug\Kanoisk.pdb
+E:\Работы на C#\2 версия Канойска\Kanoisk\obj\Debug\Kanoisk.csproj.AssemblyReference.cache
+E:\Работы на C#\2 версия Канойска\Kanoisk\obj\Debug\Kanoisk.csproj.SuggestedBindingRedirects.cache
+E:\Работы на C#\2 версия Канойска\Kanoisk\obj\Debug\Kanoisk.MainForm.resources
+E:\Работы на C#\2 версия Канойска\Kanoisk\obj\Debug\Kanoisk.Properties.Resources.resources
+E:\Работы на C#\2 версия Канойска\Kanoisk\obj\Debug\Kanoisk.csproj.GenerateResource.cache
+E:\Работы на C#\2 версия Канойска\Kanoisk\obj\Debug\Kanoisk.csproj.CoreCompileInputs.cache
+E:\Работы на C#\2 версия Канойска\Kanoisk\obj\Debug\Kanoisk.exe
+E:\Работы на C#\2 версия Канойска\Kanoisk\obj\Debug\Kanoisk.pdb
+C:\Users\user313\Desktop\Kanoisk\bin\Debug\Kanoisk.exe.config
+C:\Users\user313\Desktop\Kanoisk\bin\Debug\Kanoisk.exe
+C:\Users\user313\Desktop\Kanoisk\bin\Debug\Kanoisk.pdb
+C:\Users\user313\Desktop\Kanoisk\obj\Debug\Kanoisk.csproj.AssemblyReference.cache
+C:\Users\user313\Desktop\Kanoisk\obj\Debug\Kanoisk.MainForm.resources
+C:\Users\user313\Desktop\Kanoisk\obj\Debug\Kanoisk.Properties.Resources.resources
+C:\Users\user313\Desktop\Kanoisk\obj\Debug\Kanoisk.csproj.GenerateResource.cache
+C:\Users\user313\Desktop\Kanoisk\obj\Debug\Kanoisk.csproj.CoreCompileInputs.cache
+C:\Users\user313\Desktop\Kanoisk\obj\Debug\Kanoisk.exe
+C:\Users\user313\Desktop\Kanoisk\obj\Debug\Kanoisk.pdb
+E:\Работы на C#\4 версия\Kanoisk\bin\Debug\Kanoisk.exe.config
+E:\Работы на C#\4 версия\Kanoisk\bin\Debug\Kanoisk.exe
+E:\Работы на C#\4 версия\Kanoisk\bin\Debug\Kanoisk.pdb
+E:\Работы на C#\4 версия\Kanoisk\obj\Debug\Kanoisk.csproj.AssemblyReference.cache
+E:\Работы на C#\4 версия\Kanoisk\obj\Debug\Kanoisk.csproj.SuggestedBindingRedirects.cache
+E:\Работы на C#\4 версия\Kanoisk\obj\Debug\Kanoisk.MainForm.resources
+E:\Работы на C#\4 версия\Kanoisk\obj\Debug\Kanoisk.Properties.Resources.resources
+E:\Работы на C#\4 версия\Kanoisk\obj\Debug\Kanoisk.csproj.GenerateResource.cache
+E:\Работы на C#\4 версия\Kanoisk\obj\Debug\Kanoisk.csproj.CoreCompileInputs.cache
+E:\Работы на C#\4 версия\Kanoisk\obj\Debug\Kanoisk.exe
+E:\Работы на C#\4 версия\Kanoisk\obj\Debug\Kanoisk.pdb
+E:\Работы на C#\5 версия\Kanoisk\bin\Debug\Kanoisk.exe.config
+E:\Работы на C#\5 версия\Kanoisk\bin\Debug\Kanoisk.exe
+E:\Работы на C#\5 версия\Kanoisk\bin\Debug\Kanoisk.pdb
+E:\Работы на C#\5 версия\Kanoisk\obj\Debug\Kanoisk.csproj.AssemblyReference.cache
+E:\Работы на C#\5 версия\Kanoisk\obj\Debug\Kanoisk.csproj.SuggestedBindingRedirects.cache
+E:\Работы на C#\5 версия\Kanoisk\obj\Debug\Kanoisk.Mainmenu.resources
+E:\Работы на C#\5 версия\Kanoisk\obj\Debug\Kanoisk.Properties.Resources.resources
+E:\Работы на C#\5 версия\Kanoisk\obj\Debug\Kanoisk.csproj.GenerateResource.cache
+E:\Работы на C#\5 версия\Kanoisk\obj\Debug\Kanoisk.csproj.CoreCompileInputs.cache
+E:\Работы на C#\5 версия\Kanoisk\obj\Debug\Kanoisk.exe
+E:\Работы на C#\5 версия\Kanoisk\obj\Debug\Kanoisk.pdb
+E:\Работы на C#\5 версия\Kanoisk\obj\Debug\Kanoisk.MainGame.resources
+E:\Работы на C#\6 версия\Kanoisk\bin\Debug\Kanoisk.exe.config
+E:\Работы на C#\6 версия\Kanoisk\bin\Debug\Kanoisk.exe
+E:\Работы на C#\6 версия\Kanoisk\bin\Debug\Kanoisk.pdb
+E:\Работы на C#\6 версия\Kanoisk\obj\Debug\Kanoisk.csproj.AssemblyReference.cache
+E:\Работы на C#\6 версия\Kanoisk\obj\Debug\Kanoisk.csproj.SuggestedBindingRedirects.cache
+E:\Работы на C#\6 версия\Kanoisk\obj\Debug\Kanoisk.MainGame.resources
+E:\Работы на C#\6 версия\Kanoisk\obj\Debug\Kanoisk.Mainmenu.resources
+E:\Работы на C#\6 версия\Kanoisk\obj\Debug\Kanoisk.Properties.Resources.resources
+E:\Работы на C#\6 версия\Kanoisk\obj\Debug\Kanoisk.csproj.GenerateResource.cache
+E:\Работы на C#\6 версия\Kanoisk\obj\Debug\Kanoisk.csproj.CoreCompileInputs.cache
+E:\Работы на C#\6 версия\Kanoisk\obj\Debug\Kanoisk.exe
+E:\Работы на C#\6 версия\Kanoisk\obj\Debug\Kanoisk.pdb
+C:\Users\User\Desktop\Проэкты\игра Ханойская башня C#\Kanoisk\bin\Debug\Kanoisk.exe.config
+C:\Users\User\Desktop\Проэкты\игра Ханойская башня C#\Kanoisk\bin\Debug\Kanoisk.exe
+C:\Users\User\Desktop\Проэкты\игра Ханойская башня C#\Kanoisk\bin\Debug\Kanoisk.pdb
+C:\Users\User\Desktop\Проэкты\игра Ханойская башня C#\Kanoisk\obj\Debug\Kanoisk.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Проэкты\игра Ханойская башня C#\Kanoisk\obj\Debug\Kanoisk.MainGame.resources
+C:\Users\User\Desktop\Проэкты\игра Ханойская башня C#\Kanoisk\obj\Debug\Kanoisk.Mainmenu.resources
+C:\Users\User\Desktop\Проэкты\игра Ханойская башня C#\Kanoisk\obj\Debug\Kanoisk.Properties.Resources.resources
+C:\Users\User\Desktop\Проэкты\игра Ханойская башня C#\Kanoisk\obj\Debug\Kanoisk.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Проэкты\игра Ханойская башня C#\Kanoisk\obj\Debug\Kanoisk.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Проэкты\игра Ханойская башня C#\Kanoisk\obj\Debug\Kanoisk.exe
+C:\Users\User\Desktop\Проэкты\игра Ханойская башня C#\Kanoisk\obj\Debug\Kanoisk.pdb

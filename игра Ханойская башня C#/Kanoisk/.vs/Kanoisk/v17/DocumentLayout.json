@@ -1,0 +1,99 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\\u041F\u0440\u043E\u044D\u043A\u0442\u044B\\\u0438\u0433\u0440\u0430 \u0425\u0430\u043D\u043E\u0439\u0441\u043A\u0430\u044F \u0431\u0430\u0448\u043D\u044F C#\\Kanoisk\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{81898047-A4E6-48FD-A4F1-C9DE421E1123}|Kanoisk.csproj|C:\\Users\\User\\Desktop\\\u041F\u0440\u043E\u044D\u043A\u0442\u044B\\\u0438\u0433\u0440\u0430 \u0425\u0430\u043D\u043E\u0439\u0441\u043A\u0430\u044F \u0431\u0430\u0448\u043D\u044F C#\\Kanoisk\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81898047-A4E6-48FD-A4F1-C9DE421E1123}|Kanoisk.csproj|solutionrelative:mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81898047-A4E6-48FD-A4F1-C9DE421E1123}|Kanoisk.csproj|c:\\users\\user\\desktop\\\u043F\u0440\u043E\u044D\u043A\u0442\u044B\\\u0438\u0433\u0440\u0430 \u0445\u0430\u043D\u043E\u0439\u0441\u043A\u0430\u044F \u0431\u0430\u0448\u043D\u044F c#\\kanoisk\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{81898047-A4E6-48FD-A4F1-C9DE421E1123}|Kanoisk.csproj|solutionrelative:mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81898047-A4E6-48FD-A4F1-C9DE421E1123}|Kanoisk.csproj|C:\\Users\\User\\Desktop\\\u041F\u0440\u043E\u044D\u043A\u0442\u044B\\\u0438\u0433\u0440\u0430 \u0425\u0430\u043D\u043E\u0439\u0441\u043A\u0430\u044F \u0431\u0430\u0448\u043D\u044F C#\\Kanoisk\\maingame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{81898047-A4E6-48FD-A4F1-C9DE421E1123}|Kanoisk.csproj|solutionrelative:maingame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81898047-A4E6-48FD-A4F1-C9DE421E1123}|Kanoisk.csproj|C:\\Users\\User\\Desktop\\\u041F\u0440\u043E\u044D\u043A\u0442\u044B\\\u0438\u0433\u0440\u0430 \u0425\u0430\u043D\u043E\u0439\u0441\u043A\u0430\u044F \u0431\u0430\u0448\u043D\u044F C#\\Kanoisk\\maingame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81898047-A4E6-48FD-A4F1-C9DE421E1123}|Kanoisk.csproj|solutionrelative:maingame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81898047-A4E6-48FD-A4F1-C9DE421E1123}|Kanoisk.csproj|C:\\Users\\User\\Desktop\\\u041F\u0440\u043E\u044D\u043A\u0442\u044B\\\u0438\u0433\u0440\u0430 \u0425\u0430\u043D\u043E\u0439\u0441\u043A\u0430\u044F \u0431\u0430\u0448\u043D\u044F C#\\Kanoisk\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81898047-A4E6-48FD-A4F1-C9DE421E1123}|Kanoisk.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u041F\u0440\u043E\u044D\u043A\u0442\u044B\\\u0438\u0433\u0440\u0430 \u0425\u0430\u043D\u043E\u0439\u0441\u043A\u0430\u044F \u0431\u0430\u0448\u043D\u044F C#\\Kanoisk\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u041F\u0440\u043E\u044D\u043A\u0442\u044B\\\u0438\u0433\u0440\u0430 \u0425\u0430\u043D\u043E\u0439\u0441\u043A\u0430\u044F \u0431\u0430\u0448\u043D\u044F C#\\Kanoisk\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T17:53:47.391Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Mainmenu.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u041F\u0440\u043E\u044D\u043A\u0442\u044B\\\u0438\u0433\u0440\u0430 \u0425\u0430\u043D\u043E\u0439\u0441\u043A\u0430\u044F \u0431\u0430\u0448\u043D\u044F C#\\Kanoisk\\Mainmenu.cs",
+              "RelativeDocumentMoniker": "Mainmenu.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u041F\u0440\u043E\u044D\u043A\u0442\u044B\\\u0438\u0433\u0440\u0430 \u0425\u0430\u043D\u043E\u0439\u0441\u043A\u0430\u044F \u0431\u0430\u0448\u043D\u044F C#\\Kanoisk\\Mainmenu.cs",
+              "RelativeToolTip": "Mainmenu.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAcwBcAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T17:53:47.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Mainmenu.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u041F\u0440\u043E\u044D\u043A\u0442\u044B\\\u0438\u0433\u0440\u0430 \u0425\u0430\u043D\u043E\u0439\u0441\u043A\u0430\u044F \u0431\u0430\u0448\u043D\u044F C#\\Kanoisk\\Mainmenu.cs",
+              "RelativeDocumentMoniker": "Mainmenu.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u041F\u0440\u043E\u044D\u043A\u0442\u044B\\\u0438\u0433\u0440\u0430 \u0425\u0430\u043D\u043E\u0439\u0441\u043A\u0430\u044F \u0431\u0430\u0448\u043D\u044F C#\\Kanoisk\\Mainmenu.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "Mainmenu.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T17:53:47.509Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainGame.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u041F\u0440\u043E\u044D\u043A\u0442\u044B\\\u0438\u0433\u0440\u0430 \u0425\u0430\u043D\u043E\u0439\u0441\u043A\u0430\u044F \u0431\u0430\u0448\u043D\u044F C#\\Kanoisk\\MainGame.cs",
+              "RelativeDocumentMoniker": "MainGame.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u041F\u0440\u043E\u044D\u043A\u0442\u044B\\\u0438\u0433\u0440\u0430 \u0425\u0430\u043D\u043E\u0439\u0441\u043A\u0430\u044F \u0431\u0430\u0448\u043D\u044F C#\\Kanoisk\\MainGame.cs",
+              "RelativeToolTip": "MainGame.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAADwvzEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-04-19T17:53:47.511Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainGame.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u041F\u0440\u043E\u044D\u043A\u0442\u044B\\\u0438\u0433\u0440\u0430 \u0425\u0430\u043D\u043E\u0439\u0441\u043A\u0430\u044F \u0431\u0430\u0448\u043D\u044F C#\\Kanoisk\\MainGame.cs",
+              "RelativeDocumentMoniker": "MainGame.cs",
+              "ToolTip": "E:\\\u0420\u0430\u0431\u043E\u0442\u044B \u043D\u0430 C#\\6 \u0432\u0435\u0440\u0441\u0438\u044F\\Kanoisk\\MainGame.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-04-19T17:53:47.512Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
