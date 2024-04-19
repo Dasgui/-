@@ -1,0 +1,90 @@
+C:\Users\user552\source\repos\Raschet\bin\Debug\Raschet.exe.config
+C:\Users\user552\source\repos\Raschet\bin\Debug\Raschet.exe
+C:\Users\user552\source\repos\Raschet\bin\Debug\Raschet.pdb
+C:\Users\user552\source\repos\Raschet\obj\Debug\Raschet.csproj.AssemblyReference.cache
+C:\Users\user552\source\repos\Raschet\obj\Debug\Raschet.Form1.resources
+C:\Users\user552\source\repos\Raschet\obj\Debug\Raschet.Properties.Resources.resources
+C:\Users\user552\source\repos\Raschet\obj\Debug\Raschet.csproj.GenerateResource.cache
+C:\Users\user552\source\repos\Raschet\obj\Debug\Raschet.csproj.CoreCompileInputs.cache
+C:\Users\user552\source\repos\Raschet\obj\Debug\Raschet.exe
+C:\Users\user552\source\repos\Raschet\obj\Debug\Raschet.pdb
+C:\Users\User\Desktop\Расчет на выживание\Raschet\bin\Debug\Raschet.exe.config
+C:\Users\User\Desktop\Расчет на выживание\Raschet\bin\Debug\Raschet.exe
+C:\Users\User\Desktop\Расчет на выживание\Raschet\bin\Debug\Raschet.pdb
+C:\Users\User\Desktop\Расчет на выживание\Raschet\obj\Debug\Raschet.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Расчет на выживание\Raschet\obj\Debug\Raschet.Form1.resources
+C:\Users\User\Desktop\Расчет на выживание\Raschet\obj\Debug\Raschet.Properties.Resources.resources
+C:\Users\User\Desktop\Расчет на выживание\Raschet\obj\Debug\Raschet.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Расчет на выживание\Raschet\obj\Debug\Raschet.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Расчет на выживание\Raschet\obj\Debug\Raschet.exe
+C:\Users\User\Desktop\Расчет на выживание\Raschet\obj\Debug\Raschet.pdb
+C:\Users\user552\Desktop\Raschet 2\Raschet\bin\Debug\Raschet.exe.config
+C:\Users\user552\Desktop\Raschet 2\Raschet\bin\Debug\Raschet.exe
+C:\Users\user552\Desktop\Raschet 2\Raschet\bin\Debug\Raschet.pdb
+C:\Users\user552\Desktop\Raschet 2\Raschet\obj\Debug\Raschet.csproj.AssemblyReference.cache
+C:\Users\user552\Desktop\Raschet 2\Raschet\obj\Debug\Raschet.Form1.resources
+C:\Users\user552\Desktop\Raschet 2\Raschet\obj\Debug\Raschet.Properties.Resources.resources
+C:\Users\user552\Desktop\Raschet 2\Raschet\obj\Debug\Raschet.csproj.GenerateResource.cache
+C:\Users\user552\Desktop\Raschet 2\Raschet\obj\Debug\Raschet.csproj.CoreCompileInputs.cache
+C:\Users\user552\Desktop\Raschet 2\Raschet\obj\Debug\Raschet.exe
+C:\Users\user552\Desktop\Raschet 2\Raschet\obj\Debug\Raschet.pdb
+C:\Users\User\Desktop\Расчет на выживание\Raschet3\Raschet 2\Raschet\bin\Debug\Raschet.exe.config
+C:\Users\User\Desktop\Расчет на выживание\Raschet3\Raschet 2\Raschet\bin\Debug\Raschet.exe
+C:\Users\User\Desktop\Расчет на выживание\Raschet3\Raschet 2\Raschet\bin\Debug\Raschet.pdb
+C:\Users\User\Desktop\Расчет на выживание\Raschet3\Raschet 2\Raschet\obj\Debug\Raschet.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Расчет на выживание\Raschet3\Raschet 2\Raschet\obj\Debug\Raschet.Form1.resources
+C:\Users\User\Desktop\Расчет на выживание\Raschet3\Raschet 2\Raschet\obj\Debug\Raschet.Properties.Resources.resources
+C:\Users\User\Desktop\Расчет на выживание\Raschet3\Raschet 2\Raschet\obj\Debug\Raschet.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Расчет на выживание\Raschet3\Raschet 2\Raschet\obj\Debug\Raschet.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Расчет на выживание\Raschet3\Raschet 2\Raschet\obj\Debug\Raschet.exe
+C:\Users\User\Desktop\Расчет на выживание\Raschet3\Raschet 2\Raschet\obj\Debug\Raschet.pdb
+C:\Users\user552\Desktop\Raschet3\Raschet 2\Raschet\bin\Debug\Raschet.exe.config
+C:\Users\user552\Desktop\Raschet3\Raschet 2\Raschet\bin\Debug\Raschet.exe
+C:\Users\user552\Desktop\Raschet3\Raschet 2\Raschet\bin\Debug\Raschet.pdb
+C:\Users\user552\Desktop\Raschet3\Raschet 2\Raschet\obj\Debug\Raschet.csproj.AssemblyReference.cache
+C:\Users\user552\Desktop\Raschet3\Raschet 2\Raschet\obj\Debug\Raschet.Form1.resources
+C:\Users\user552\Desktop\Raschet3\Raschet 2\Raschet\obj\Debug\Raschet.Properties.Resources.resources
+C:\Users\user552\Desktop\Raschet3\Raschet 2\Raschet\obj\Debug\Raschet.csproj.GenerateResource.cache
+C:\Users\user552\Desktop\Raschet3\Raschet 2\Raschet\obj\Debug\Raschet.csproj.CoreCompileInputs.cache
+C:\Users\user552\Desktop\Raschet3\Raschet 2\Raschet\obj\Debug\Raschet.exe
+C:\Users\user552\Desktop\Raschet3\Raschet 2\Raschet\obj\Debug\Raschet.pdb
+C:\Users\User\Desktop\5 версия\Raschet\bin\Debug\Raschet.exe.config
+C:\Users\User\Desktop\5 версия\Raschet\bin\Debug\Raschet.exe
+C:\Users\User\Desktop\5 версия\Raschet\bin\Debug\Raschet.pdb
+C:\Users\User\Desktop\5 версия\Raschet\obj\Debug\Raschet.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\5 версия\Raschet\obj\Debug\Raschet.Form1.resources
+C:\Users\User\Desktop\5 версия\Raschet\obj\Debug\Raschet.Properties.Resources.resources
+C:\Users\User\Desktop\5 версия\Raschet\obj\Debug\Raschet.csproj.GenerateResource.cache
+C:\Users\User\Desktop\5 версия\Raschet\obj\Debug\Raschet.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\5 версия\Raschet\obj\Debug\Raschet.exe
+C:\Users\User\Desktop\5 версия\Raschet\obj\Debug\Raschet.pdb
+C:\Users\user552\Desktop\7 версия\Raschet\bin\Debug\Raschet.exe.config
+C:\Users\user552\Desktop\7 версия\Raschet\bin\Debug\Raschet.exe
+C:\Users\user552\Desktop\7 версия\Raschet\bin\Debug\Raschet.pdb
+C:\Users\user552\Desktop\7 версия\Raschet\obj\Debug\Raschet.csproj.AssemblyReference.cache
+C:\Users\user552\Desktop\7 версия\Raschet\obj\Debug\Raschet.Form1.resources
+C:\Users\user552\Desktop\7 версия\Raschet\obj\Debug\Raschet.Properties.Resources.resources
+C:\Users\user552\Desktop\7 версия\Raschet\obj\Debug\Raschet.csproj.GenerateResource.cache
+C:\Users\user552\Desktop\7 версия\Raschet\obj\Debug\Raschet.csproj.CoreCompileInputs.cache
+C:\Users\user552\Desktop\7 версия\Raschet\obj\Debug\Raschet.exe
+C:\Users\user552\Desktop\7 версия\Raschet\obj\Debug\Raschet.pdb
+C:\Users\User\Desktop\8 версия\Raschet\bin\Debug\Raschet.exe.config
+C:\Users\User\Desktop\8 версия\Raschet\bin\Debug\Raschet.exe
+C:\Users\User\Desktop\8 версия\Raschet\bin\Debug\Raschet.pdb
+C:\Users\User\Desktop\8 версия\Raschet\obj\Debug\Raschet.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\8 версия\Raschet\obj\Debug\Raschet.Form1.resources
+C:\Users\User\Desktop\8 версия\Raschet\obj\Debug\Raschet.Properties.Resources.resources
+C:\Users\User\Desktop\8 версия\Raschet\obj\Debug\Raschet.csproj.GenerateResource.cache
+C:\Users\User\Desktop\8 версия\Raschet\obj\Debug\Raschet.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\8 версия\Raschet\obj\Debug\Raschet.exe
+C:\Users\User\Desktop\8 версия\Raschet\obj\Debug\Raschet.pdb
+C:\Users\User\Desktop\8 версия 2\Raschet\bin\Debug\Raschet.exe.config
+C:\Users\User\Desktop\8 версия 2\Raschet\bin\Debug\Raschet.exe
+C:\Users\User\Desktop\8 версия 2\Raschet\bin\Debug\Raschet.pdb
+C:\Users\User\Desktop\8 версия 2\Raschet\obj\Debug\Raschet.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\8 версия 2\Raschet\obj\Debug\Raschet.Form1.resources
+C:\Users\User\Desktop\8 версия 2\Raschet\obj\Debug\Raschet.Properties.Resources.resources
+C:\Users\User\Desktop\8 версия 2\Raschet\obj\Debug\Raschet.csproj.GenerateResource.cache
+C:\Users\User\Desktop\8 версия 2\Raschet\obj\Debug\Raschet.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\8 версия 2\Raschet\obj\Debug\Raschet.exe
+C:\Users\User\Desktop\8 версия 2\Raschet\obj\Debug\Raschet.pdb
