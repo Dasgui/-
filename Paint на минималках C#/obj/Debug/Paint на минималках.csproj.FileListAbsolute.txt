@@ -1,0 +1,11 @@
+E:\Работы на C#\Paint на минималках\bin\Debug\Paint на минималках.exe.config
+E:\Работы на C#\Paint на минималках\bin\Debug\Paint на минималках.exe
+E:\Работы на C#\Paint на минималках\bin\Debug\Paint на минималках.pdb
+E:\Работы на C#\Paint на минималках\obj\Debug\Paint на минималках.csproj.AssemblyReference.cache
+E:\Работы на C#\Paint на минималках\obj\Debug\Paint на минималках.csproj.SuggestedBindingRedirects.cache
+E:\Работы на C#\Paint на минималках\obj\Debug\Paint_на_минималках.Form1.resources
+E:\Работы на C#\Paint на минималках\obj\Debug\Paint_на_минималках.Properties.Resources.resources
+E:\Работы на C#\Paint на минималках\obj\Debug\Paint на минималках.csproj.GenerateResource.cache
+E:\Работы на C#\Paint на минималках\obj\Debug\Paint на минималках.csproj.CoreCompileInputs.cache
+E:\Работы на C#\Paint на минималках\obj\Debug\Paint на минималках.exe
+E:\Работы на C#\Paint на минималках\obj\Debug\Paint на минималках.pdb

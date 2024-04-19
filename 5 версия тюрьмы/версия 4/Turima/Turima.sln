@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Turima", "Turima.csproj", "{1988F9E3-3A65-4CE8-B66A-41FDE137C5FC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1988F9E3-3A65-4CE8-B66A-41FDE137C5FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1988F9E3-3A65-4CE8-B66A-41FDE137C5FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1988F9E3-3A65-4CE8-B66A-41FDE137C5FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1988F9E3-3A65-4CE8-B66A-41FDE137C5FC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {87EB359B-D1BE-4775-BD3E-2775B8E007A7}
+	EndGlobalSection
+EndGlobal

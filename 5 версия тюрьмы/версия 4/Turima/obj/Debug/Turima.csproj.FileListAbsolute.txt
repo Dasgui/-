@@ -1,0 +1,121 @@
+C:\Users\user35.CHENK\source\repos\Turima\bin\Debug\Turima.exe.config
+C:\Users\user35.CHENK\source\repos\Turima\bin\Debug\Turima.exe
+C:\Users\user35.CHENK\source\repos\Turima\bin\Debug\Turima.pdb
+C:\Users\user35.CHENK\source\repos\Turima\obj\Debug\Turima.csproj.AssemblyReference.cache
+C:\Users\user35.CHENK\source\repos\Turima\obj\Debug\Turima.MainMenu.resources
+C:\Users\user35.CHENK\source\repos\Turima\obj\Debug\Turima.Properties.Resources.resources
+C:\Users\user35.CHENK\source\repos\Turima\obj\Debug\Turima.BaseMurd.resources
+C:\Users\user35.CHENK\source\repos\Turima\obj\Debug\Turima.csproj.GenerateResource.cache
+C:\Users\user35.CHENK\source\repos\Turima\obj\Debug\Turima.csproj.CoreCompileInputs.cache
+C:\Users\user35.CHENK\source\repos\Turima\obj\Debug\Turima.exe
+C:\Users\user35.CHENK\source\repos\Turima\obj\Debug\Turima.pdb
+C:\Users\user35.CHENK\source\repos\Turima\obj\Debug\Turima.GraphOfFood.resources
+C:\Users\user35.CHENK\source\repos\Turima\obj\Debug\Turima.GraphWorker.resources
+C:\Users\user35.CHENK\source\repos\Turima\obj\Debug\Turima.GoToUDO.resources
+D:\2 учебная практика\Turima\bin\Debug\Turima.exe.config
+D:\2 учебная практика\Turima\bin\Debug\Turima.exe
+D:\2 учебная практика\Turima\bin\Debug\Turima.pdb
+D:\2 учебная практика\Turima\obj\Debug\Turima.csproj.AssemblyReference.cache
+D:\2 учебная практика\Turima\obj\Debug\Turima.csproj.SuggestedBindingRedirects.cache
+D:\2 учебная практика\Turima\obj\Debug\Turima.GoToUDO.resources
+D:\2 учебная практика\Turima\obj\Debug\Turima.GraphWorker.resources
+D:\2 учебная практика\Turima\obj\Debug\Turima.GraphOfFood.resources
+D:\2 учебная практика\Turima\obj\Debug\Turima.MainMenu.resources
+D:\2 учебная практика\Turima\obj\Debug\Turima.Properties.Resources.resources
+D:\2 учебная практика\Turima\obj\Debug\Turima.BaseMurd.resources
+D:\2 учебная практика\Turima\obj\Debug\Turima.csproj.GenerateResource.cache
+D:\2 учебная практика\Turima\obj\Debug\Turima.csproj.CoreCompileInputs.cache
+D:\2 учебная практика\Turima\obj\Debug\Turima.exe
+D:\2 учебная практика\Turima\obj\Debug\Turima.pdb
+C:\Users\user35.CHENK\Desktop\2 учебная практика\Turima\bin\Debug\Turima.exe.config
+C:\Users\user35.CHENK\Desktop\2 учебная практика\Turima\bin\Debug\Turima.exe
+C:\Users\user35.CHENK\Desktop\2 учебная практика\Turima\bin\Debug\Turima.pdb
+C:\Users\user35.CHENK\Desktop\2 учебная практика\Turima\obj\Debug\Turima.csproj.AssemblyReference.cache
+C:\Users\user35.CHENK\Desktop\2 учебная практика\Turima\obj\Debug\Turima.GoToUDO.resources
+C:\Users\user35.CHENK\Desktop\2 учебная практика\Turima\obj\Debug\Turima.GraphWorker.resources
+C:\Users\user35.CHENK\Desktop\2 учебная практика\Turima\obj\Debug\Turima.GraphOfFood.resources
+C:\Users\user35.CHENK\Desktop\2 учебная практика\Turima\obj\Debug\Turima.MainMenu.resources
+C:\Users\user35.CHENK\Desktop\2 учебная практика\Turima\obj\Debug\Turima.Properties.Resources.resources
+C:\Users\user35.CHENK\Desktop\2 учебная практика\Turima\obj\Debug\Turima.BaseMurd.resources
+C:\Users\user35.CHENK\Desktop\2 учебная практика\Turima\obj\Debug\Turima.csproj.GenerateResource.cache
+C:\Users\user35.CHENK\Desktop\2 учебная практика\Turima\obj\Debug\Turima.csproj.CoreCompileInputs.cache
+C:\Users\user35.CHENK\Desktop\2 учебная практика\Turima\obj\Debug\Turima.exe
+C:\Users\user35.CHENK\Desktop\2 учебная практика\Turima\obj\Debug\Turima.pdb
+C:\Users\user35.CHENK\Desktop\2 учебная практика\Turima\obj\Debug\Turima.Poisk.resources
+E:\Работы на C#\2 практика\Новая папка\2 учебная практика\Turima\bin\Debug\Turima.exe.config
+E:\Работы на C#\2 практика\Новая папка\2 учебная практика\Turima\bin\Debug\Turima.exe
+E:\Работы на C#\2 практика\Новая папка\2 учебная практика\Turima\bin\Debug\Turima.pdb
+E:\Работы на C#\2 практика\Новая папка\2 учебная практика\Turima\obj\Debug\Turima.csproj.AssemblyReference.cache
+E:\Работы на C#\2 практика\Новая папка\2 учебная практика\Turima\obj\Debug\Turima.csproj.SuggestedBindingRedirects.cache
+E:\Работы на C#\2 практика\Новая папка\2 учебная практика\Turima\obj\Debug\Turima.GoToUDO.resources
+E:\Работы на C#\2 практика\Новая папка\2 учебная практика\Turima\obj\Debug\Turima.GraphWorker.resources
+E:\Работы на C#\2 практика\Новая папка\2 учебная практика\Turima\obj\Debug\Turima.GraphOfFood.resources
+E:\Работы на C#\2 практика\Новая папка\2 учебная практика\Turima\obj\Debug\Turima.MainMenu.resources
+E:\Работы на C#\2 практика\Новая папка\2 учебная практика\Turima\obj\Debug\Turima.Properties.Resources.resources
+E:\Работы на C#\2 практика\Новая папка\2 учебная практика\Turima\obj\Debug\Turima.BaseMurd.resources
+E:\Работы на C#\2 практика\Новая папка\2 учебная практика\Turima\obj\Debug\Turima.Poisk.resources
+E:\Работы на C#\2 практика\Новая папка\2 учебная практика\Turima\obj\Debug\Turima.csproj.GenerateResource.cache
+E:\Работы на C#\2 практика\Новая папка\2 учебная практика\Turima\obj\Debug\Turima.csproj.CoreCompileInputs.cache
+E:\Работы на C#\2 практика\Новая папка\2 учебная практика\Turima\obj\Debug\Turima.exe
+E:\Работы на C#\2 практика\Новая папка\2 учебная практика\Turima\obj\Debug\Turima.pdb
+C:\Users\user35.CHENK\Desktop\версия 4\Turima\bin\Debug\Turima.exe.config
+C:\Users\user35.CHENK\Desktop\версия 4\Turima\bin\Debug\Turima.exe
+C:\Users\user35.CHENK\Desktop\версия 4\Turima\bin\Debug\Turima.pdb
+C:\Users\user35.CHENK\Desktop\версия 4\Turima\obj\Debug\Turima.csproj.AssemblyReference.cache
+C:\Users\user35.CHENK\Desktop\версия 4\Turima\obj\Debug\Turima.GoToUDO.resources
+C:\Users\user35.CHENK\Desktop\версия 4\Turima\obj\Debug\Turima.GraphWorker.resources
+C:\Users\user35.CHENK\Desktop\версия 4\Turima\obj\Debug\Turima.GraphOfFood.resources
+C:\Users\user35.CHENK\Desktop\версия 4\Turima\obj\Debug\Turima.MainMenu.resources
+C:\Users\user35.CHENK\Desktop\версия 4\Turima\obj\Debug\Turima.Properties.Resources.resources
+C:\Users\user35.CHENK\Desktop\версия 4\Turima\obj\Debug\Turima.BaseMurd.resources
+C:\Users\user35.CHENK\Desktop\версия 4\Turima\obj\Debug\Turima.Poisk.resources
+C:\Users\user35.CHENK\Desktop\версия 4\Turima\obj\Debug\Turima.csproj.GenerateResource.cache
+C:\Users\user35.CHENK\Desktop\версия 4\Turima\obj\Debug\Turima.csproj.CoreCompileInputs.cache
+C:\Users\user35.CHENK\Desktop\версия 4\Turima\obj\Debug\Turima.exe
+C:\Users\user35.CHENK\Desktop\версия 4\Turima\obj\Debug\Turima.pdb
+E:\5 версия тюрьмы\версия 4\Turima\bin\Debug\Turima.exe.config
+E:\5 версия тюрьмы\версия 4\Turima\bin\Debug\Turima.exe
+E:\5 версия тюрьмы\версия 4\Turima\bin\Debug\Turima.pdb
+E:\5 версия тюрьмы\версия 4\Turima\obj\Debug\Turima.csproj.AssemblyReference.cache
+E:\5 версия тюрьмы\версия 4\Turima\obj\Debug\Turima.GoToUDO.resources
+E:\5 версия тюрьмы\версия 4\Turima\obj\Debug\Turima.GraphWorker.resources
+E:\5 версия тюрьмы\версия 4\Turima\obj\Debug\Turima.GraphOfFood.resources
+E:\5 версия тюрьмы\версия 4\Turima\obj\Debug\Turima.MainMenu.resources
+E:\5 версия тюрьмы\версия 4\Turima\obj\Debug\Turima.Properties.Resources.resources
+E:\5 версия тюрьмы\версия 4\Turima\obj\Debug\Turima.BaseMurd.resources
+E:\5 версия тюрьмы\версия 4\Turima\obj\Debug\Turima.Poisk.resources
+E:\5 версия тюрьмы\версия 4\Turima\obj\Debug\Turima.csproj.GenerateResource.cache
+E:\5 версия тюрьмы\версия 4\Turima\obj\Debug\Turima.csproj.CoreCompileInputs.cache
+E:\5 версия тюрьмы\версия 4\Turima\obj\Debug\Turima.exe
+E:\5 версия тюрьмы\версия 4\Turima\obj\Debug\Turima.pdb
+E:\Работы на C#\5 версия тюрьмы\версия 4\Turima\bin\Debug\Turima.exe.config
+E:\Работы на C#\5 версия тюрьмы\версия 4\Turima\bin\Debug\Turima.exe
+E:\Работы на C#\5 версия тюрьмы\версия 4\Turima\bin\Debug\Turima.pdb
+E:\Работы на C#\5 версия тюрьмы\версия 4\Turima\obj\Debug\Turima.csproj.AssemblyReference.cache
+E:\Работы на C#\5 версия тюрьмы\версия 4\Turima\obj\Debug\Turima.csproj.SuggestedBindingRedirects.cache
+E:\Работы на C#\5 версия тюрьмы\версия 4\Turima\obj\Debug\Turima.GoToUDO.resources
+E:\Работы на C#\5 версия тюрьмы\версия 4\Turima\obj\Debug\Turima.GraphWorker.resources
+E:\Работы на C#\5 версия тюрьмы\версия 4\Turima\obj\Debug\Turima.GraphOfFood.resources
+E:\Работы на C#\5 версия тюрьмы\версия 4\Turima\obj\Debug\Turima.MainMenu.resources
+E:\Работы на C#\5 версия тюрьмы\версия 4\Turima\obj\Debug\Turima.Properties.Resources.resources
+E:\Работы на C#\5 версия тюрьмы\версия 4\Turima\obj\Debug\Turima.BaseMurd.resources
+E:\Работы на C#\5 версия тюрьмы\версия 4\Turima\obj\Debug\Turima.Poisk.resources
+E:\Работы на C#\5 версия тюрьмы\версия 4\Turima\obj\Debug\Turima.csproj.GenerateResource.cache
+E:\Работы на C#\5 версия тюрьмы\версия 4\Turima\obj\Debug\Turima.csproj.CoreCompileInputs.cache
+E:\Работы на C#\5 версия тюрьмы\версия 4\Turima\obj\Debug\Turima.exe
+E:\Работы на C#\5 версия тюрьмы\версия 4\Turima\obj\Debug\Turima.pdb
+C:\Users\User\Desktop\Проэкты\5 версия тюрьмы\версия 4\Turima\bin\Debug\Turima.exe.config
+C:\Users\User\Desktop\Проэкты\5 версия тюрьмы\версия 4\Turima\bin\Debug\Turima.exe
+C:\Users\User\Desktop\Проэкты\5 версия тюрьмы\версия 4\Turima\bin\Debug\Turima.pdb
+C:\Users\User\Desktop\Проэкты\5 версия тюрьмы\версия 4\Turima\obj\Debug\Turima.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Проэкты\5 версия тюрьмы\версия 4\Turima\obj\Debug\Turima.GoToUDO.resources
+C:\Users\User\Desktop\Проэкты\5 версия тюрьмы\версия 4\Turima\obj\Debug\Turima.GraphWorker.resources
+C:\Users\User\Desktop\Проэкты\5 версия тюрьмы\версия 4\Turima\obj\Debug\Turima.GraphOfFood.resources
+C:\Users\User\Desktop\Проэкты\5 версия тюрьмы\версия 4\Turima\obj\Debug\Turima.MainMenu.resources
+C:\Users\User\Desktop\Проэкты\5 версия тюрьмы\версия 4\Turima\obj\Debug\Turima.Properties.Resources.resources
+C:\Users\User\Desktop\Проэкты\5 версия тюрьмы\версия 4\Turima\obj\Debug\Turima.BaseMurd.resources
+C:\Users\User\Desktop\Проэкты\5 версия тюрьмы\версия 4\Turima\obj\Debug\Turima.Poisk.resources
+C:\Users\User\Desktop\Проэкты\5 версия тюрьмы\версия 4\Turima\obj\Debug\Turima.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Проэкты\5 версия тюрьмы\версия 4\Turima\obj\Debug\Turima.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Проэкты\5 версия тюрьмы\версия 4\Turima\obj\Debug\Turima.exe
+C:\Users\User\Desktop\Проэкты\5 версия тюрьмы\версия 4\Turima\obj\Debug\Turima.pdb
